@@ -83,7 +83,7 @@
                         </span>
                     </a>
 
-                    <a href="{{ asset('Sandip-Ramanuj-Resume.pdf') }}" download
+                    <a href="{{ asset('assets/Sandip-Ramanuj-Resume.pdf') }}" download
                         class="inline-flex items-center gap-2 rounded-full border border-slate-700 bg-slate-900/40 px-6 py-2.5 text-sm font-semibold text-slate-100 hover:border-primary-400 hover:bg-slate-900/80 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950">
                         <span>Download Resume</span>
                     </a>
