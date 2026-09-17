@@ -87,7 +87,7 @@
                         <span>View My Work</span>
                         <span class="inline-flex h-5 w-5 items-center justify-center rounded-full bg-white/10 text-xs group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-150">→</span>
                     </a>
-                    <a href="{{ asset('assets/Sandip-Ramanuj-Resume.pdf') }}" download
+                    <a href="#" download
                         class="inline-flex items-center gap-2 rounded-full border border-slate-700 bg-slate-900/40 px-6 py-2.5 text-sm font-semibold text-slate-100 hover:border-primary-400 hover:bg-slate-900/80 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950">
                         <span>Download Resume</span>
                     </a>
